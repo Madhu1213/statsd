@@ -1,4 +1,4 @@
-statsd (0.10.1-1) unstable; urgency=low
+statsd (0.10.1-1) unstable; urgency=medium
 
   * Include tag pushes in docker builds
 
